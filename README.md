@@ -1,3 +1,4 @@
-# Python for Machine Learning
-# Course in Seminar haHadash
+## Python for Machine Learning
+
+### Course in Seminar haHadash
 
