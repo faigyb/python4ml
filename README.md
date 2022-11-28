@@ -8,3 +8,4 @@
 4. [Linear regression](regression.ipynb)
 5. [Classification](classification.ipynb)
 6. [Advanced topics in Regression & Classification](advanced_topics.ipynb)
+7. [Classification of MNIST dataset: Logistic Regression & SVM](classification_algo.ipynb)
